@@ -9,6 +9,7 @@ roxanevp/roxanevp is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.linkedin.com/in/roxaneprincipe/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+<a href="https://www.linkedin.com/in/roxaneprincipe/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+&link=https://www.linkedin.com/in/roxaneprincipe/">
 </a>
