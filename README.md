@@ -1,7 +1,7 @@
 👋 Hi there, I'm Roxane V. Príncipe. I'm student and Python enthusiast from Brazil
 
-- 🌱 I’m currently learning Back-End Phyton
-- 🤝 I’m looking to collaborate on Phyton prjects
+- 🌱 I am currently learning Front-End Development and Back-End Python
+- 🤝 I’m looking to collaborate prjects.
 
 
 <!---
