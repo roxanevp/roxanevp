@@ -16,8 +16,10 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, voc
  <br>
  
  <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxanevp&show_icons=true&theme=radical)
-  </div>
+  
+</div>
  
  
 
